@@ -1,7 +1,7 @@
-<h2>Hey 👋, let me find some <img src="https://img.icons8.com/?size=512&id=JdpV0QAmt2ap&format=png" width="25" height="25" ></h2>
+<h2>Hey, let me find some <img src="https://lh3.googleusercontent.com/pw/AJFCJaXPFl2b3A2dt_o5orRx5AMNUkH_HLLoNh5Jdud7jR7k_YpdCpkUl8awb-7ioUaehEFe1ge69E-D6nIrTmefSPZ1Uc_pkpZ8-4jYIiMdms5iXe3kcDLzWDfCS3jmthQstTx27eHjbGnnPNtqdY8b3FUS8EaKuzbbk8iIuZ9XU-OvLxAFH2EhL3ofZC-Knb0v9EzL1sFruvQShbdy9iLo8WJ0mMjV5zgo8h355JUbklKkueEl3W9FtEvQG-FNflDNkZoFixb86bXAMfQPKs7eWe-_9QGaWysKRbZcpGtZE8odPtooUE5xhOBOvL62P4Qy2kARfLg0w94IrrW5piREC3GZRlcD1B0SlRl8loww-TEMfEoL8OiZUm7mQwCDYvRBPrUcrMsbxmlUGqeZ77_YQ2SjLWTX9HyQR-Y2v_Hovt0TxmoyFUuKmAVGnYuGXLujICsQAs2Qwgu4rKx4UgZNPE9xPvWN-8enCMly2vOpc6x5R8bThbr801NANre--SDzZBtcK2ZHtmjL7v-BspJmJ9o6HVWAHCtqX5Bqf5_Im2J5rcv093owUGp2ZdrvmAFokQtPP3BkS7qpMFzqf-N662ear6eLdCEeDJHIiIIypNjYzSqw0hDsIrKwXjGgRkh5BlVRDUpiO2bZv2R3OuH3k_UUfVKKnM0F73Kb-u6zhnJFgJYNycqVd8N33gKrbdjzLR2_End4yB2WDY_RseeJc-JvhyyqLxv9mxi1XdskfrvhqI0K1OEQLCcSlVSc51Sw-6zinfuDkNWpVAUFdeEvDZWH-XOYjUsxrKqu3KM5aRfbC85EtLASiupFGGihV2P50AUSidUmPqKsvXp2gkQQ1CPLFFBNg0_lMxiaHQ5emfAhc_OtcT5JdGe6sV0E06cJLl6jl6OkUmTEchcGZelS9n3RmTRcQJwYDlbrNJkJHUZAp-UNE-mUVukAFSKteOqU-1s-UmNY1S0y5NAICW0PnYdMJkRrQGS80cwnXjCttuLZgMt-OXd_a0Wja3Uzvakaa5quFvI=w512-h512-s-no?authuser=0" height="25" ></h2>
 <p> My name is Olga and I am QA Engineer finishing <a href="https://artsiomrusau.com/qa-from-scratch"> functional software testing course</a>. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships.</p> 
 
-<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="250">
+<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
 <h2>A Few Quick Facts</h2>
 <ul>
 <li> 🌱 I’m currently open to job opportunities as QA Engineer </li>
