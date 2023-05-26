@@ -37,8 +37,8 @@
 </p>
 <h3 align="center"> Take a look at my repositories and let's get in touch! </h3>
 <p align="center">
-<a href= "https://www.linkedin.com/in/osukhorukova/"><img src="https://img.icons8.com/?size=512&id=447&format=png" width="40" height="40" alt="linkedin"/></a>
-<a href= "https://t.me/olyaskh"><img src="https://img.icons8.com/?size=512&id=TCnKnYZFoOzM&format=png" width="40" height="40" alt="telegram"/></a>
-<a href= "mailto:o.skhrkv@gmail.com"><img src="https://img.icons8.com/?size=512&id=rUgzXdXFnhmg&format=png" width="40" height="40" alt="gmail"/></a>
+<a href= "https://www.linkedin.com/in/osukhorukova/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
+<a href= "https://t.me/olyaskh"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
+<a href= "mailto:o.skhrkv@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p>
 
