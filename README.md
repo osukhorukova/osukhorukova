@@ -1,16 +1,8 @@
-# Hi, let me find some <img src="https://img.icons8.com/?size=512&id=JdpV0QAmt2ap&format=png" width="25" height="25" >
----
+<h2>Hey 👋, let me find some <img src="https://img.icons8.com/?size=512&id=JdpV0QAmt2ap&format=png" width="25" height="25" ></h2>
+<p> My name is Olga and I am QA Engineer finishing <a href="https://artsiomrusau.com/qa-from-scratch"> functional software testing course</a>. Here I want to share some web and mobile testing portfolio items gained during my studies and current internships.</p> 
 
-## About me <img src="https://img.icons8.com/?size=512&id=rodFxEp6CGgN&format=png" width="30" height="30" >
-
-
-My name is Olga and I am QA Engineer finishing [functional software testing course ](https://artsiomrusau.com/qa-from-scratch). 
-Here I want to share some web and mobile testing portfolio items gained during my studies and current internships. 
-
----
-
-<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" width="320"/>
-<h2> A Few Quick Facts</h2>
+<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="250">
+<h2>A Few Quick Facts</h2>
 <ul>
 <li> 🌱 I’m currently open to job opportunities as QA Engineer </li>
 <li> ☢️ Came to IT from nuclear power industry</li>
@@ -19,10 +11,7 @@ Here I want to share some web and mobile testing portfolio items gained during m
 <li>📙 Check out my <a href="https://drive.google.com/file/d/1L6C3oA_wxW4hP5QjpFqLFu8qRFS4kUD_/view?usp=sharing">resume</a></li>
 <li> 🇸🇪 Fun Fact: jag lär mig svenska </li>
 </ul>
-
----
-
-## Some Tools I Use 
+<h2>Some Tools I Use</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>
@@ -46,16 +35,10 @@ Here I want to share some web and mobile testing portfolio items gained during m
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
 </p>
-
----
-
-<p align="center">
-Take a look at my repositories and let's get in touch!
-
+<h3 align="center"> Take a look at my repositories and let's get in touch! </h3>
 <p align="center">
 <a href= "https://www.linkedin.com/in/osukhorukova/"><img src="https://img.icons8.com/?size=512&id=447&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "https://t.me/olyaskh"><img src="https://img.icons8.com/?size=512&id=TCnKnYZFoOzM&format=png" width="40" height="40" alt="telegram"/></a>
 <a href= "mailto:o.skhrkv@gmail.com"><img src="https://img.icons8.com/?size=512&id=rUgzXdXFnhmg&format=png" width="40" height="40" alt="gmail"/></a>
 </p>
 
----
