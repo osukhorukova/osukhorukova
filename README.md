@@ -35,6 +35,19 @@
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
 </p>
+<h2>Test Artifacts </h2>
+<p> 
+ <ul>
+<li>  <a href="https://github.com/osukhorukova/web_testing">Web shop testing</a>  </li>
+<li>  <a href="https://github.com/osukhorukova/api_testing">API testing with Postman</a>   </li>
+<li> <a href="https://github.com/osukhorukova/sql">MySQL</a>   </li>
+<li>  <a href="https://github.com/osukhorukova/mongodb">MongoDB</a>  </li>
+<li>  <a href="https://github.com/osukhorukova/mobile_testing"> Android app testing</a>   </li>
+<li> <a href="https://github.com/osukhorukova/charlesproxy">Replacing data with CharlesProxy</a>  </li>
+<li> <a href="https://github.com/osukhorukova/bash"> Bash </a>  </li>
+<li> <a href="https://github.com/osukhorukova/git"> Git </a> </li>
+</ul>
+</p>
 <h3 align="center"> Take a look at my repositories and let's get in touch! </h3>
 <p align="center">
 <a href= "https://www.linkedin.com/in/osukhorukova/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
