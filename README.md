@@ -38,8 +38,8 @@
 <h2>Test Artifacts </h2>
 <p> 
  <ul>
-<li>  <a href="https://github.com/osukhorukova/web_testing">Web shop testing</a>  </li>
-<li>  <a href="https://github.com/osukhorukova/api_testing">API testing with Postman</a>   </li>
+<li>  <a href="https://github.com/osukhorukova/web_testing">Webshop testing</a>  </li>
+<li>  <a href="https://github.com/osukhorukova/api_testing"> REST and SOAP API testing via Postman </a>   </li>
 <li> <a href="https://github.com/osukhorukova/sql">MySQL</a>   </li>
 <li>  <a href="https://github.com/osukhorukova/mongodb">MongoDB</a>  </li>
 <li>  <a href="https://github.com/osukhorukova/mobile_testing"> Android app testing</a>   </li>
