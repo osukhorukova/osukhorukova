@@ -8,7 +8,7 @@
 <li> ☢️ Came to IT from nuclear power industry</li>
 <li> 🐈‍⬛ Most of my study cases are available on <a href="https://github.com/osukhorukova">Github</a></li> </li>
 <li> 🐍 Learning python in my free time</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/13zciCaHNcAcExvW8L8lh4YzfNzKtD9j2/view?usp=sharing">resume</a></li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1GoxJfRNYe72Dk4xkv3vShFQviefpnJmB/view?usp=sharing">resume</a></li>
 <li>🏃🏻‍♀️ I take part in running marathons </li>
 </ul>
 <h2>Some Tools I Use</h2>
