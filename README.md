@@ -10,7 +10,7 @@
 <li> 🐈‍⬛ Most of my study cases are available on <a href="https://github.com/osukhorukova">Github</a></li> </li>
 <li> 📖 Learning Kotling in my free time</li>
 <li>📙 Check out my <a href="https://drive.google.com/file/d/1GoxJfRNYe72Dk4xkv3vShFQviefpnJmB/view?usp=sharing">resume</a></li> 
-<li>🏃🏻‍♀🧣 Random fact about me: I adore knitting </li>
+<li>🧣 Random fact about me: I adore knitting </li>
 </ul>
 <h2>Some Tools I Use</h2>
 <p align="center">
