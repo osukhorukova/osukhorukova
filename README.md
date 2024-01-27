@@ -1,10 +1,10 @@
 <h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" ></h2>
-<p> My name is Olga and I am Android QA Engineer. Here I want to share some web and mobile testing portfolio items gained during some of my studies and pet-projects.</p> 
+<p> My name is Olga and I am an Android QA Engineer. Here I want to share some web and mobile testing portfolio items gained during some of my studies and pet-projects.</p> 
 
 <img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
 <h2>A Few Quick Facts</h2>
 <ul>
-<li> <img src="https://seeklogo.com/images/I/ivi-logo-DBB3F958F7-seeklogo.com.png" height="15" ></h2> I’m currently working as Android QA Engineer at Ivi (online video streaming service)</li>
+<li> <img src="https://seeklogo.com/images/I/ivi-logo-DBB3F958F7-seeklogo.com.png" height="15" ></h2> I’m currently working as an Android QA Engineer at <a href="https://www.ivi.ru/">Ivi</a></li> (online cinema with 50000000 MAU )</li>
 <li> 😌 Finished <a href="https://drive.google.com/file/d/1ZLaE_vsG-bdGf0pZxbhCldgChWrZ3Nn5/view?usp=sharing">functional software testing course</a> </li>
 <li> ☕ Right now I am learning how to automate tests with Java</li>
 <li> 🐈‍⬛ Most of my study cases are available on <a href="https://github.com/osukhorukova">Github</a></li> </li>
