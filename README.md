@@ -4,13 +4,13 @@
 <h2>A Few Quick Facts</h2>
 <img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
 <ul>
-<li> <img src="https://seeklogo.com/images/I/ivi-logo-DBB3F958F7-seeklogo.com.png" height="15" ></h2> I’m currently working as an Android QA Engineer at <a href="https://www.ivi.ru/">Ivi</a> (online cinema with 50 mln MAU )</li>
+<li> 👩🏻‍💻 </h2> I’m currently working as an Android QA Engineer at <a href="https://www.ivi.ru/">Ivi</a> (online cinema with 50 mln MAU )</li>
 <li> 😌 Finished <a href="https://drive.google.com/file/d/1ZLaE_vsG-bdGf0pZxbhCldgChWrZ3Nn5/view?usp=sharing">functional software testing course</a> </li>
-<li> ☕ Right now I am learning how to automate tests with Java</li>
+<li> ☕ Learning how to automate tests with Java</li>
 <li> 🐈‍⬛ Most of my study cases are available on <a href="https://github.com/osukhorukova">Github</a></li> </li>
-<li> 📖 Learning Kotling in my free time</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1GoxJfRNYe72Dk4xkv3vShFQviefpnJmB/view?usp=sharing">resume</a></li> 
-<li>🧣 Random fact about me: I love knitting, formula 1 and Taylor Swift </li>
+<li> 📖 I really enjoy mentoring junior spesialists </li>
+<li> 📙 Check out my <a href="https://drive.google.com/file/d/1GoxJfRNYe72Dk4xkv3vShFQviefpnJmB/view?usp=sharing">resume</a></li> 
+<li> 🧣 Random fact about me: I love knitting, formula 1 and Taylor Swift </li>
 </ul>
 <h2>Some Tools I Use</h2>
 <p align="center">
@@ -24,7 +24,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="soapui" alt="soapui" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>
+<img src="https://64.media.tumblr.com/c40e81596f30adf8690ee26aa12e888f/tumblr_inline_ob8z21ogTu1r2onau_400.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>
 <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>
 <img src="https://ph-files.imgix.net/f1aba60e-b071-4afd-bde6-7c123853a3ae.png?auto=format" title="proxyman" alt="proxyman" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
