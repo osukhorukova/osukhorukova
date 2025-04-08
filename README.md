@@ -9,7 +9,7 @@
 <li> 🇸🇪 </h2> Based in Copenhagen but moving to Stockholm this summer </li>
 <li> 😌 Finished <a href="https://drive.google.com/file/d/1ZLaE_vsG-bdGf0pZxbhCldgChWrZ3Nn5/view?usp=sharing">functional software testing course</a> </li>
 <li> 📖 I really enjoy mentoring junior spesialists </li>
-<li> 🧣 Random fact about me: I love knitting, formula 1 and Taylor Swift </li>
+<li> 🏎️ Random fact about me: I love formula 1 and Taylor Swift </li>
 </ul>
 <h2>Some Tools I Use</h2>
 <p align="center">
