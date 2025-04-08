@@ -4,12 +4,11 @@
 <h2>A Few Quick Facts</h2>
 <img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
 <ul>
-<li> 👩🏻‍💻 </h2> I’m currently working as an Android QA Engineer at <a href="https://www.ivi.ru/">Ivi</a> (online cinema with 50 mln MAU )</li>
+<li> ☕ </h2> I’m currently learning how to automate tests with Java</li>
+<li> 👩🏻‍💻 </h2> My latest role was an Android QA Engineer at <a href="https://www.ivi.ru/">Ivi</a> (online cinema with 50 mln MAU )</li>
+<li> 🇸🇪 </h2> Based in Copenhagen but moving to Stockholm this summer </li>
 <li> 😌 Finished <a href="https://drive.google.com/file/d/1ZLaE_vsG-bdGf0pZxbhCldgChWrZ3Nn5/view?usp=sharing">functional software testing course</a> </li>
-<li> ☕ Learning how to automate tests with Java</li>
-<li> 🐈‍⬛ Most of my study cases are available on <a href="https://github.com/osukhorukova">Github</a></li> </li>
 <li> 📖 I really enjoy mentoring junior spesialists </li>
-<li> 📙 Check out my <a href="https://drive.google.com/file/d/1GoxJfRNYe72Dk4xkv3vShFQviefpnJmB/view?usp=sharing">resume</a></li> 
 <li> 🧣 Random fact about me: I love knitting, formula 1 and Taylor Swift </li>
 </ul>
 <h2>Some Tools I Use</h2>
