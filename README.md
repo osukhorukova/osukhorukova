@@ -1,5 +1,5 @@
 <h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" ></h2>
-<p> My name is Olga and I am a Software QA Engineer. Here I want to share some web and mobile testing portfolio items gained during some of my studies and pet-projects.</p> 
+<p> My name is Olga and I am a Software QA Engineer. Here I share some web and mobile testing portfolio items developed through courses and personal projects.</p> 
 
 <h2>A Few Quick Facts</h2>
 <img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
