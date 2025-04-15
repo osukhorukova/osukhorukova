@@ -5,9 +5,9 @@
 <img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
 <ul>
 <li> ☕ </h2> I’m currently learning how to automate tests with Java</li>
-<li> 👩🏻‍💻 </h2> My latest role was an Android QA Engineer at <a href="https://www.ivi.ru/">Ivi</a> (online cinema with 50 mln MAU )</li>
+<li> 👩🏻‍💻 </h2> My latest role was an Android QA Engineer at <a href="https://www.ivi.ru/">Ivi</a> (one of Eastern Europe’s Largest video-streaming services, MAU > 50M)</li>
 <li> 📍 </h2> Based in Copenhagen but moving to Sweden this summer </li>
-<li> 😌 Finished <a href="https://drive.google.com/file/d/1ZLaE_vsG-bdGf0pZxbhCldgChWrZ3Nn5/view?usp=sharing">functional software testing course</a> </li>
+<li> 😌 You are welcome to take a look at my <a href="https://drive.google.com/file/d/1rLsacBkWNB9YXG3_TuKPVQdBQw5-UCXF/view?usp=sharing">resume</a> </li>
 <li> 📖 I really enjoy mentoring junior spesialists </li>
 <li> 🏎️ Random fact about me: I love formula 1 and Taylor Swift </li>
 </ul>
