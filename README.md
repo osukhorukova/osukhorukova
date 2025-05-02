@@ -5,10 +5,10 @@
 <h2>A Few Quick Facts</h2>
 <img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245" alt="QA testing gif">
 <ul>
-  <li>🎭 I’m working towards becoming a full-stack QA and currently learning test automation with Playwright and Selenium.</li>
+  <li>🎭 I’m currently learning test automation with Playwright and Selenium.</li>
   <li>👩🏻‍💻 My most recent role was an Android QA Engineer at <a href="https://www.ivi.ru/">Ivi</a>, one of Eastern Europe’s largest video-streaming services (MAU > 50M).</li>
   <li>📖 I enjoy mentoring junior specialists and co-designed a course to guide support staff into QA roles.</li>
-  <li>🤝 Whether it's team brainstorming or quiet routine testing, I enjoy both sides of QA - collaboration and independent problem-solving.</li>
+  <li>🤝 Whether it's team brainstorming or quiet routine testing, I enjoy both sides of QA work.</li>
   <li>🏎️ Fun facts: I love Formula 1, pop culture and asian food.</li>
   <li>😌 You are welcome to check out my <a href="https://drive.google.com/file/d/1mqViTjwJLErSLtRAevzvQUk9YSA_3iHo/view?usp=sharing">resume</a>.</li>
 </ul>
