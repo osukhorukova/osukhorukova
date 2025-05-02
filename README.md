@@ -37,7 +37,6 @@
 
 <h2>Test Artifacts</h2>
 <ul>
-  <li><a href="https://github.com/osukhorukova/JavaTestAutomation">Java Test Automation</a> – UI and functional testing with Selenium</li>
   <li><a href="https://github.com/osukhorukova/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
   <li><a href="https://github.com/osukhorukova/api_testing">API Testing</a> – REST and SOAP via Postman</li>
   <li><a href="https://github.com/osukhorukova/sql">MySQL</a> – queries and DB validation scripts</li>
