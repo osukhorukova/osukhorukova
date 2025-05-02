@@ -9,7 +9,7 @@
   <li>👩🏻‍💻 My most recent role was an Android QA Engineer at <a href="https://www.ivi.ru/">Ivi</a>, one of Eastern Europe’s largest video-streaming services (MAU > 50M).</li>
   <li>📖 I enjoy mentoring junior specialists and co-designed a course to guide support staff into QA roles.</li>
   <li>🤝 Whether it's team brainstorming or quiet routine testing, I enjoy both sides of QA work.</li>
-  <li>🏎️ Fun facts: I love Formula 1, pop culture and asian food.</li>
+  <li>🏎️ Fun facts: I love Formula 1 and pop culture.</li>
 </ul>
 
 <h2>Some Tools I Use</h2>
