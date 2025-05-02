@@ -1,6 +1,6 @@
 <h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" alt="ladybug"></h2>
 
-<p>My name is Olga and I am a Software QA Engineer. Here I share web and mobile testing portfolio items developed through courses and personal projects.</p>
+<p>My name is Olga and I am a Software QA Engineer. Here I share web and mobile testing portfolio items developed through courses and personal projects. You are welcome to check out my <a href="https://drive.google.com/file/d/1mqViTjwJLErSLtRAevzvQUk9YSA_3iHo/view?usp=sharing">resume</a>.</p>
 
 <h2>A Few Quick Facts</h2>
 <img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245" alt="QA testing gif">
@@ -10,7 +10,6 @@
   <li>📖 I enjoy mentoring junior specialists and co-designed a course to guide support staff into QA roles.</li>
   <li>🤝 Whether it's team brainstorming or quiet routine testing, I enjoy both sides of QA work.</li>
   <li>🏎️ Fun facts: I love Formula 1, pop culture and asian food.</li>
-  <li>😌 You are welcome to check out my <a href="https://drive.google.com/file/d/1mqViTjwJLErSLtRAevzvQUk9YSA_3iHo/view?usp=sharing">resume</a>.</li>
 </ul>
 
 <h2>Some Tools I Use</h2>
